@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Open [Live Demo](https://roaring-raindrop-2285d6.netlify.app/) to view it in your browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
